@@ -11,7 +11,7 @@ As of now, I am learning C#, so i can integrate some of my ideas to make GUI's. 
 
 <p align="right">
 
-##### Also, check out the general theme and let me know what you think:
+##### Also, check out the general theme and layout and let me know what you think:
 ![Screenshot_2](https://user-images.githubusercontent.com/86316775/157963486-34560fa2-c315-4cf6-93db-fdfc39eb053d.png)
 
 
